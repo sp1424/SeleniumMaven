@@ -11,8 +11,8 @@ Things to note:
 4. If the response body is empty from the request sent then the programme tells the user and stops itself from continuing.
 
 Project Structure:
-1.Entry Point: VeroxosSelenium.java in browserAutomationEntry package.
-2.Http Request (GET): JsonPlaceholderHttpHanlder.java in simpleHTTP package
-3.Instatiation of JuniorDeveloper object: (JuniorDeveloper.java) and other required objects from JSON in dataTransferobjects package.
-4.Class used for constants to store html used by Selenium: HTMLIdentifiers.java in veroxosWebConstants package.
-5.Selenium driver: ContactFormHandler.java in veroxosAutomator package.
+1. Entry Point: VeroxosSelenium.java in browserAutomationEntry package.
+2. Http Request (GET): JsonPlaceholderHttpHanlder.java in simpleHTTP package
+3 .Instatiation of JuniorDeveloper object: (JuniorDeveloper.java) and other required objects from JSON in dataTransferobjects package.
+4. Class used for constants to store html used by Selenium: HTMLIdentifiers.java in veroxosWebConstants package.
+5. Selenium driver: ContactFormHandler.java in veroxosAutomator package.
